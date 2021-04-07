@@ -66,11 +66,11 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 <br> </br>
 <b>Issue: </b>Another thing I wanted to note, there is not much to say about this heuristic because of the lack of freedom the user has on the application. (2)
 <br> </br>
-Issue: With what is allowed (reviewing, commenting, liking, rating), Goodreads does allow users to delete all but only edit reviews and star ratings. 
+<b>Issue: </b> With what is allowed (reviewing, commenting, liking, rating), Goodreads does allow users to delete all but only edit reviews and star ratings. 
 <br> </br>
 <b>Issue: </b>Once you join a group on the app, there is no option to leave the group. (3)
 <br> </br>
-<b>Recommendation: <:b>Simply have the back function take users black to the direct previous state. This is also an issue concurring with the second heuristic since it does not match with the real word interpretation of the back function. Users are familiar with a back function that goes to the previous state directly. 
+<b>Recommendation: </b>Simply have the back function take users black to the direct previous state. This is also an issue concurring with the second heuristic since it does not match with the real word interpretation of the back function. Users are familiar with a back function that goes to the previous state directly. 
 <br> </br>
 <b>Recommendation: </b>The application is really bare bones. It needs to give users the freedom to customize the application especially for such a text heavy application, there is no power to make it accessible. even just a few toggles to change the text size, picture size, etc. Would be extremely helpful. 
 
