@@ -31,3 +31,4 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 </details>
 
 <b>Issue:</b>When the user is on a book’s profile page, you can rate the book using the 5- star system provided or place the book in the “Read” bookshelf. Once the reader does either action, a little box below the rating system is revealed that says “Write a Review”. However, once the user clicks “Done” to publish the review there is no indication given to show that the review was successfully published. The user has to reload the book’spage or wait some moments to see. 
+<b>Recommendation</b>: First, have there be an option to save the review as a draft. There have been many times when I’ve thought I published my review but when I go back to view the review, it isn’t there. Second, have a pop up box indicating that the review is as published with an accompanying link to view it on the book’s page. This way users can surely know their actions were saved. 
