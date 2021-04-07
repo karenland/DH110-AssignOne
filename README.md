@@ -12,3 +12,13 @@ After the initial wave of lockdowns and closures, many things become accessible 
 
 # Website 1: [Goodreads]
 (https://www.goodreads.com/)(https://apps.apple.com/us/app/goodreads-book-reviews/id355833469) 
+
+
+
+<b>Why I chose this website:</b>
+
+Goodreads is not an attractive website/application. For the longest time, it was simply cluttered with simple text and barely any visuals. Now there is a bit more balance but still, it is not an attractive app especially considering its age and backing (est. in 2007 and bought by Amazon 2013). 
+
+<b>Overall evaluation:</b>
+
+In my opinion, the app feels like it’s missing a little bit of something in each area of its IOS mobile application. It’s not a very fun app to be on due to its outdated UI. It also has typical system errors like slow loading pages and it even freezes a lot. 
