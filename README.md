@@ -30,8 +30,10 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 
 
 <h2>1. Visibility of System Status</h2>
+<details>
 <summary> definition </summary>
 <p> The users are well informed/updated about the actions they’ve done while interacting with the system. The feedback they receive may come in visual, audio, and haptic forms. </p>
+</details>
 
 <b>Issue: </b> When the user is on a book’s profile page, you can rate the book using the 5- star system provided or place the book in the “Read” bookshelf. Once the reader does either action, a little box below the rating system is revealed that says “Write a Review”. However, once the user clicks “Done” to publish the review there is no indication given to show that the review was successfully published. The user has to reload the book’spage or wait some moments to see. (2)
 <br> </br>
@@ -95,7 +97,7 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 <p>System prevents errors and/or unwanted actions from occurring.</p>
 </details>
 
-When editing a review, if the user devices to cancel it, the app prompts the user with a pop up message to make sure that it wasn’t a mistake. 
+When editing a review, if the user decides to cancel it, the app prompts the user with a pop up message to make sure that it wasn’t a mistake. 
 <br> </br>
 <b>Issue:</b>The prompt does not appear anywhere else. (1)
 <br> </br>
@@ -135,10 +137,11 @@ When editing a review, if the user devices to cancel it, the app prompts the use
 <h2>8. Aesthetic and minimalist design</h2>
 <details>
 <summary> definition </summary>
-<p> System design is not cluttered and easy on the eyes - no issues arise nor stem from the design. There is no meaningless objects that are apart of the system design. 
-
+<p> 
+System design is not cluttered and easy on the eyes - no issues arise nor stem from the design. There are no unnecessary objects as well. 
 </p> 
 </details>
+
 <b>Issue:</b> Goodreads is not a visually appealing app. Shown in each section of the app, the pictures of the book covers are all small. And it seems like text carries the same weight of importance as the covers themselves. With some details like an author’s name, not being displayed well. The book covers, when clicked on, instead of showing a high resolution image, it is blurry.  The good is that when the book covers are the main focus, the resolution looks good. (3)
 <br> </br>
 <b>Issue:</b>Once again the “More” page is an issue since it doesn’t match the aesthetic of the website and instead of looking “minimalistic” it simply looks very bare-boned. (2)
@@ -185,7 +188,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <summary> definition </summary>
 <p> The users are well informed/updated about the actions they’ve done while interacting with the system. The feedback they receive may come in visual, audio, and haptic forms. </p>
 
-<b>Issue: </b> As, the user reads a book, the book may suddenly go blank but with no indication as to why. 
+<b>Issue: </b> As, the user reads a book, the book may suddenly go blank but with no indication as to why. (2)
 <br></br>
 
 <b> Recommendation: </b> Simply, including an error message as to what interaction of the user caused for the error to occur would be helpful. Because with a blank page, the user will simply assume they have to wait for it to load or they might assume the page is frozen. 
@@ -198,7 +201,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 </p>
 </details>
 
-<b>Issue: </b> When there is no internet and with internet, and the user tries to read a book sample, the book is automatically tagged in the system with a cake emoticon. Tagged items can be seen on the bookshelf area. 
+<b>Issue: </b> When there is no internet and with internet, and the user tries to read a book sample, the book is automatically tagged in the system with a cake emoticon. Tagged items can be seen on the bookshelf area. (2)
 
 <br> </br>
 <b>My recommendation:<b> delete this automatic tagging feature. Once the internet is working again, the book/s tagged with a cake are gone so there is no way of revisiting your books from earlier through the system’s tags. It seems like this feature only works sometimes. The icons are also very very small. They’re difficult to decipher. 
@@ -211,7 +214,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 </p>
 </details>
 
-<b>Issue: </b> If a user accidentally chose the wrong library they are a member of, there is no way to go back to correct their mistake. User has to delete the app and start all over. 
+<b>Issue: </b> If a user accidentally chose the wrong library they are a member of, there is no way to go back to correct their mistake. User has to delete the app and start all over. (3)
 <br> </br> 
 <b> Recommendation: </b> Allow users to correct this mistake by simply including an option at below  saying something like “Chose Wrong Library? Correct it Here.” Instead of sending the user back to the home page. 
 
@@ -222,7 +225,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <p>The system should have consistent formats, fonts, actions, etc. as well as follow platform conventions. All so that the user is never lost or confused. </p>
 </details>
 
-<b>Issue: </b> The application does not follow the general convention in that there are no setting options on the app. The only setting in the app are the ones concerned with the actual reading experience. 
+<b>Issue: </b> The application does not follow the general convention in that there are no setting options on the app. The only setting in the app are the ones concerned with the actual reading experience. (3)
 <br> </br> 
 <b> Recommendation: </b> Include a typical settings feature on the application. Perhaps where the bookshelf is so that readers can customize the app. 
 
@@ -232,7 +235,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <p>System prevents errors and/or unwanted actions from occurring. </p>
 </details> 
 
-<Issue:> When the inputs the wrong PIN number the application recommends the user want steps to take from retrying to visiting their FAQ/Help page. 
+When the user inputs the wrong PIN number the application recommends the user want steps to take from retrying to visiting their FAQ/Help page. 
 <br> </br>
 <b>Recommendation: </b> no recommendation
 
@@ -241,7 +244,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <summary> definition </summary> 
 <p>The system should try to minimize the use of the users’ memory. </p>
 </details>
-<b>Issue: </b>Can only search for book titles and authors. Does not allow one to search for fantasy, character names, nor can there be any miss spellings. (1) 
+<b>Issue: </b>Can only search for book titles and authors. Does not allow one to search for fantasy, character names, nor can there be any miss spellings. (2) 
 
 <br> </br> 
 <b> Recommendation: </b> Have a more relaxed search function since a lot of readers often only know one thing about a book they’ve read, and limiting what they can search would disable readers from finding the books they want to read. 
@@ -253,7 +256,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <p>Gives users the ability to change their system experience to be flexible towards them. Like allow for customization in displays and allow them to designate keyboard shortcuts. </p>
 </details>
 
-<b> Issue: </b> Again, without a settings option for the application itself, the users do not have much flexibility with how they can enjoy the application. 
+<b> Issue: </b> Again, without a settings option for the application itself, the users do not have much flexibility with how they can enjoy the application. (3)
 <br> </br> 
 <b> Recommendations: </b> include a settings page for the application that includes the conventional settings, changes to text, be able to change to a night/dark theme, change language of application, etc. 
 
@@ -278,7 +281,7 @@ The only confusing aspect is that the library icon directs the user to the homep
 <p>The system should display error messages with possible instructions/solutions simple enough so that users can understand the errors and follow the necessary steps to correct them. </p>
 </details>
 
-<b> Issue: </b> When reading a story, the goes can suddenly go blank with no indication from Libby as to why it does that. First time and regular users will be greatly confused. 
+<b> Issue: </b> When reading a story, the goes can suddenly go blank with no indication from Libby as to why it does that. First time and regular users will be greatly confused. (3)
 
 <br> </br> 
 <b>Recommendation: </b> Include an error message as to why instances such as this occur. My assumption is due to the internet connection but that is my guess only having experienced this multiple times. 
@@ -297,3 +300,5 @@ The only confusing aspect is that the library icon directs the user to the homep
 
 
 
+
+ 
