@@ -22,3 +22,12 @@ Goodreads is not an attractive website/application. For the longest time, it was
 <b>Overall evaluation:</b>
 
 In my opinion, the app feels like it’s missing a little bit of something in each area of its IOS mobile application. It’s not a very fun app to be on due to its outdated UI. It also has typical system errors like slow loading pages and it even freezes a lot. 
+
+
+<h2>1. Visibility of System Status</h2>
+<details>
+<summary> definition </summary>
+<p> The users are well informed/updated about the actions they’ve done while interacting with system. The feedback they receive may come in visual, audio, and haptic forms. </p>
+</details>
+
+<b>Issue:</b>When the user is on a book’s profile page, you can rate the book using the 5- star system provided or place the book in the “Read” bookshelf. Once the reader does either action, a little box below the rating system is revealed that says “Write a Review”. However, once the user clicks “Done” to publish the review there is no indication given to show that the review was successfully published. The user has to reload the book’spage or wait some moments to see. 
