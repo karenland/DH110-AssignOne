@@ -135,10 +135,10 @@ When editing a review, if the user devices to cancel it, the app prompts the use
 <h2>8. Aesthetic and minimalist design</h2>
 <details>
 <summary> definition </summary>
-<p> 
+<p> System design is not cluttered and easy on the eyes - no issues arise nor stem from the design. There is no meaningless objects that are apart of the system design. 
 
 </p> 
-
+</details>
 <b>Issue:</b> Goodreads is not a visually appealing app. Shown in each section of the app, the pictures of the book covers are all small. And it seems like text carries the same weight of importance as the covers themselves. With some details like an author’s name, not being displayed well. The book covers, when clicked on, instead of showing a high resolution image, it is blurry.  The good is that when the book covers are the main focus, the resolution looks good. (3)
 <br> </br>
 <b>Issue:</b>Once again the “More” page is an issue since it doesn’t match the aesthetic of the website and instead of looking “minimalistic” it simply looks very bare-boned. (2)
