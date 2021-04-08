@@ -231,7 +231,7 @@ In my opinion, the app does a great job of allowing the user to customize their 
 <br> </br> 
 <b> Recommendation: </b> Include a typical settings feature on the application. Perhaps where the bookshelf is so that readers can customize the app. 
 
-<h2> Error prevention:<h2> 
+<h2> Error prevention:</h2> 
 <details> 
 <summary> definition </summary> 
 <p>System prevents errors and/or unwanted actions from occurring. </p>
@@ -277,7 +277,7 @@ The only confusing aspect is that the library icon directs the user to the homep
 <b>Recommendation: </b> Not sure the best way to combat the interface issue. Right now, the most important change I can think of is concerning The icons at the bottom of the app since that’s what’s creating the (very little) clutter the app has. My thought is that everything can probably be condensed into 3 icons. 
 
 
-<h2> 9. Help users recognize, diagnose, and recover from errors<h2> 
+<h2> 9. Help users recognize, diagnose, and recover from errors</h2> 
 <details>
 <summary> definition </summary> 
 <p>The system should display error messages with possible instructions/solutions simple enough so that users can understand the errors and follow the necessary steps to correct them. </p>
