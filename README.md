@@ -80,6 +80,9 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 <b>Issue: </b>Another thing I wanted to note, there is not much to say about this heuristic because of the lack of freedom the user has on the application. (2)
 <br> </br>
 <b>Issue: </b> With what is allowed (reviewing, commenting, liking, rating), Goodreads does allow users to delete all but only edit reviews and star ratings. 
+
+![image](https://user-images.githubusercontent.com/82078120/113949962-0b5e1a00-97c5-11eb-8fca-2af7682f3d43.png)
+
 <br> </br>
 <b>Issue: </b>Once you join a group on the app, there is no option to leave the group. (3)
 <br> </br>
@@ -312,7 +315,7 @@ The only confusing aspect is that the library icon directs the user to the homep
 <b>Issue: </b>There is a help page for users. It is a list filled with possible questions they may have. It has a search function. Only thing missing is a way to contact Libby directly for a question. One can only contact Libby concerning an app crash(1)
 
 
-<br>< /br> 
+<br></br> 
 <b> Recommendations: </b> include a way to contact for questions/comments on the help page within the app to on the website (the user is directed to the website from a link in the app if the app’s guide can’t help them). 
 
 
