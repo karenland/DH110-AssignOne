@@ -202,9 +202,8 @@ When there isn’t an internet connection, Goodreads tells the user clearly of s
 
 Libby is a digital library that serves over 70 US library branches and well as some outside of the USA. It allows users to check out digital reads such as ebooks, magazines, as well as audio books for 2 / 3 weeks. Since it is partnered through different library systems, a user must have a library account already in order to use Libby. 
 
-e45bded9dbd8.png)
 
-![image](https://user-images.githubusercontent.com/82078120/113951111-c2f42b80-97c7-11eb-8965-ac66098c41ea.png)
+![image](https://user-images.githubusercontent.com/82078120/113951089-b7086980-97c7-11eb-9310-e45bded9dbd8.png)
 
 <b>Why I chose this website:</b>
 
