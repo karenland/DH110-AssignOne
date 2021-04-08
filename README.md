@@ -259,6 +259,8 @@ When the user inputs the wrong PIN number the application recommends the user wa
 </details>
 <b>Issue: </b>Can only search for book titles and authors. Does not allow one to search for fantasy, character names, nor can there be any miss spellings. (2) 
 
+![image](https://user-images.githubusercontent.com/82078120/113949909-eff30f00-97c4-11eb-90c4-43d60829b809.png)
+
 <br> </br> 
 <b> Recommendation: </b> Have a more relaxed search function since a lot of readers often only know one thing about a book they’ve read, and limiting what they can search would disable readers from finding the books they want to read. 
 
@@ -283,6 +285,8 @@ When the user inputs the wrong PIN number the application recommends the user wa
 
 <b>Issue: </b> Interface is simple and clean. 
 The only confusing aspect is that the library icon directs the user to the homepage (which surprisingly isn’t one’s bookshelf). The big circle icon on the bottom of the app simply leads users to a new page to manage notifications and to look for answers (the help page). (1)
+
+![image](https://user-images.githubusercontent.com/82078120/113949904-ecf81e80-97c4-11eb-8be7-91cd967d5f64.png)
 
 <br> </br> 
 <b>Recommendation: </b> Not sure the best way to combat the interface issue. Right now, the most important change I can think of is concerning The icons at the bottom of the app since that’s what’s creating the (very little) clutter the app has. My thought is that everything can probably be condensed into 3 icons. 
