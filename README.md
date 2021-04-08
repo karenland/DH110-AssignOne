@@ -20,6 +20,8 @@ And everyone especially describes a chance to share what they love with others, 
 Goodreads is a social website geared towards enthusiastic readers. Users can write their own reviews, rate, comment and like other reviews, create, create/join groups as well as follow authors for updates. Besides the social aspect, users can also simply keep track of books they’ve interacted with as well as receive recommendations. 
 
 
+![image](https://user-images.githubusercontent.com/82078120/113951194-edde7f80-97c7-11eb-98df-a1f902282929.png)
+
 <b>Why I chose this website:</b>
 
 Goodreads is not an attractive website/application. For the longest time, it was simply cluttered with simple text and barely any visuals. Now there is a bit more balance but still, it is not an attractive app especially considering its age and backing (est. in 2007 and bought by Amazon 2013). 
@@ -104,6 +106,10 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 <b>Issue:</b>in the Goodreads app, book titles are displayed in an inconsistent manner. Some are displayed as if they are in bookshelves, some are displayed as a few stacked together, and some book titles have a blur effect on them. (2)
 <br> </br>
 <b>Issue:</b>On the “More” options page, instead of the typical system’s design of white backgrounds with colored text (limited to blue, dark brown, and black) or black/colored background with white text, the options on this page have a gray textured background with beige text. (2)
+
+
+![image](https://user-images.githubusercontent.com/82078120/113951111-c2f42b80-97c7-11eb-8965-ac66098c41ea.png)
+
 <br> </br>
 <b>Recommendations:</b> For the first issue, simply remove the specified text I mentioned. For the second issue, have a more consistent way of displaying book titles. Since it’s a book-centered website, I think either choosing to display them as if they were on a bookshelf or stacked would make sense. The blur effect seemed completely out of place. For the last issue, simply change the More page to fit the rest of the website’s design. 
 
@@ -195,6 +201,10 @@ When there isn’t an internet connection, Goodreads tells the user clearly of s
 <br> (https://apps.apple.com/us/app/libby-by-overdrive/id1076402606)</br>
 
 Libby is a digital library that serves over 70 US library branches and well as some outside of the USA. It allows users to check out digital reads such as ebooks, magazines, as well as audio books for 2 / 3 weeks. Since it is partnered through different library systems, a user must have a library account already in order to use Libby. 
+
+e45bded9dbd8.png)
+
+![image](https://user-images.githubusercontent.com/82078120/113951111-c2f42b80-97c7-11eb-8965-ac66098c41ea.png)
 
 <b>Why I chose this website:</b>
 
