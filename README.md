@@ -29,6 +29,17 @@ Goodreads is not an attractive website/application. For the longest time, it was
 In my opinion, the app feels like it’s missing a little bit of something in each area of its IOS mobile application. It’s not a very fun app to be on due to its outdated UI. It also has typical system errors like slow loading pages and it even freezes a lot. 
 
 
+<h2> Severity Ratings in Heuristic Evaluation guided by class notes + Nielson Norman Group Rates </h2> 
+
+<br> 1 = denotes that it is a small cosmetic/non imperative problem only; can be fixed when time allows it  
+</br>
+<br> 
+2 = this is a Minor usability problem: has some priority but not imperative </br>
+<br>
+3 = this is a Major usability problem: this denotes an imperative issue that must be fixed </br>
+
+
+
 <h2>1. Visibility of System Status</h2>
 <details>
 <summary> definition </summary>
