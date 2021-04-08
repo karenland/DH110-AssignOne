@@ -274,7 +274,10 @@ When the user inputs the wrong PIN number the application recommends the user wa
 <p>Gives users the ability to change their system experience to be flexible towards them. Like allow for customization in displays and allow them to designate keyboard shortcuts. </p>
 </details>
 
-<b> Issue: </b> Again, without a settings option for the application itself, the users do not have much flexibility with how they can enjoy the application. (3)
+<b> Issue: </b> Again, without a settings option for the application itself, the users do not have much flexibility with how they can enjoy the application. (3) It does have good settings for the reading experience. 
+
+![image](https://user-images.githubusercontent.com/82078120/113950620-a1df0b00-97c6-11eb-8b6b-3d98e90248f3.png)
+
 <br> </br> 
 <b> Recommendations: </b> include a settings page for the application that includes the conventional settings, changes to text, be able to change to a night/dark theme, change language of application, etc. 
 
