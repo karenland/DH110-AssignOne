@@ -97,6 +97,9 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 </details>
 
 <b>Issue:</b>Again, to revisit a previous state that was mentioned, after the initial settings page and once any of the options (account, privacy, etc) is selected, on those (possible) selected ones, in the upper right is “Settings” underlined and typed in blue. Nowhere else does something similar appear in the system. (1)
+
+![image](https://user-images.githubusercontent.com/82078120/113950593-968bdf80-97c6-11eb-88c9-ceed436c5b6b.png)
+
 <br> </br>
 <b>Issue:</b>in the Goodreads app, book titles are displayed in an inconsistent manner. Some are displayed as if they are in bookshelves, some are displayed as a few stacked together, and some book titles have a blur effect on them. (2)
 <br> </br>
@@ -112,6 +115,9 @@ In my opinion, the app feels like it’s missing a little bit of something in ea
 </details>
 
 When editing a review, if the user decides to cancel it, the app prompts the user with a pop up message to make sure that it wasn’t a mistake. 
+
+![image](https://user-images.githubusercontent.com/82078120/113949898-e8336a80-97c4-11eb-8d61-fdc06f6b55cd.png)
+
 <br> </br>
 <b>Issue:</b>The prompt does not appear anywhere else. (1)
 <br> </br>
